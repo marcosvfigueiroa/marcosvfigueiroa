@@ -93,9 +93,11 @@ Focused on <strong>software development, technical support, and databases</stron
 <h2 align="left">Projects</h2>
 
 <p align="left">
-🔥 <strong>Wildfire Tracker</strong> — React, NASA API, Google Maps API<br>
+🔥 <a href="https://github.com/marcosvfigueiroa/wildfire-tracker">
+Wildfire Tracker
+</a> — React, NASA API, Google Maps API<br>
 • Interactive map displaying real-time wildfire events from NASA<br>
-• API data fetching, markers, and map visualization<br><br>
+• API data fetching, markers, and map visualization
 
 🛍️ <strong>Shopify E-commerce Customization</strong> — Shopify, Liquid, JavaScript, HTML, CSS<br>
 • Custom theme modifications and layout adjustments<br>
