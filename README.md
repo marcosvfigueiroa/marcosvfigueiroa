@@ -99,12 +99,14 @@ Wildfire Tracker
 • Interactive map displaying real-time wildfire events from NASA<br>
 • API data fetching, markers, and map visualization
 
-🛍️ <strong>Shopify E-commerce Customization</strong> — Shopify, Liquid, JavaScript, HTML, CSS<br>
+🛍️ <a href="https://github.com/marcosvfigueiroa/shopify-theme-mundo-das-chuteiras">
+<strong>Shopify E-commerce Customization</strong></a> — Shopify, Liquid, JavaScript, HTML, CSS<br>
 • Custom theme modifications and layout adjustments<br>
 • Product variants, cart behavior fixes, and stock management<br>
 • Worked on real production store requirements<br><br>
 
-📌 <strong>Quiz Management System</strong> — MERN / .NET microservices<br>
+📌 <a href="https://github.com/marcosvfigueiroa/QuizApp">
+<strong>Quiz Management System</strong> </a> — MERN / .NET microservices<br>
 • Authentication, quiz creation, and data persistence<br><br>
 
 🎮 <strong>Unity Mini-Games</strong> — C# (2D & 3D)<br>
